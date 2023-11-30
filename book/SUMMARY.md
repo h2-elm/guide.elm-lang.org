@@ -1,8 +1,9 @@
 # Summary
 
-* [Introduction](README.md)
-* [Core Language](core_language.md)
-* [The Elm Architecture](architecture/README.md)
+* [1.Introduction](1.Introduction)
+   * [1.1 Introduction](1.1_README.md) 
+   * [1.2 Core Language](1.2_core_language.md)
+* [2.The Elm Architecture](2.architecture)
    * [Buttons](architecture/buttons.md)
    * [Text Fields](architecture/text_fields.md)
    * [Forms](architecture/forms.md)
