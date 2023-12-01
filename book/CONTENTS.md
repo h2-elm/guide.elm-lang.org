@@ -1,7 +1,7 @@
 # Summary
 
 * [1.Introduction](1.Introduction)
-   * [1.1 Introduction](1.1_README.md) 
+   * [1.1 Preface](1.1_README.md) 
    * [1.2 Core Language](1.2_core_language.md)
 * [2.The Elm Architecture](2.architecture)
    * [Buttons](architecture/buttons.md)
