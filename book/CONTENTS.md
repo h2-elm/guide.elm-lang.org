@@ -1,4 +1,4 @@
-# Summary
+# Contents
 
 * [1.Introduction](1.Introduction/1_README.md)
    * [1.1 Core Language](1.Introduction/1.1_core_language.md)
