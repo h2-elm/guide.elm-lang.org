@@ -47,6 +47,10 @@ There are some things you can only get from a functional *language* like Elm:
   - No runtime errors in practice.
   - Automatically enforced semantic versioning for all Elm packages.
 
-No combination of JS libraries can give you all of these guarantees. They come from the design of the language itself! And thanks to these guarantees, it is quite common for Elm programmers to say they never felt so **confident** while programming. Confident to add features quickly. Confident to refactor thousands of lines. But without the background anxiety that you missed something important!
+No combination of JS libraries can give you all of these guarantees. They come from the design of the language itself! 
 
-I have put a huge emphasis on making Elm easy to learn and use, so all I ask is that you give Elm a shot and see what you think. I hope you will be pleasantly surprised!
+And thanks to these guarantees, it is quite common for Elm programmers to say they never felt so **confident** while programming. 
+
+  - Confident to add features quickly. 
+  - Confident to refactor thousands of lines. 
+  - But without the background anxiety that you missed something important!
